@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  An empty repository is created.  
+  We need a repository so that we can commit version later.
