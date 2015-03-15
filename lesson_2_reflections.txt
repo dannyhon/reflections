@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
   An empty repository is created.  
   We need a repository so that we can commit version later.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  Staging area is list all the files that need to be tracked and committed to 
+  the repository.
+  It allows you to specify what files to be committed rather than committing
+  all new files.
