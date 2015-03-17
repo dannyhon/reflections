@@ -5,3 +5,12 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
   I may be making changes and do not want my modified files automatically overwritten.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Folks is similar to clone but operate only on GitHub.  Use folks when
+    you want to clone another person's repository on GitHub.
+  Clone copy the whole repository.  Use this when you want to clone a remote
+    repository and make changes in your local environment.
+  Branch is a separate path for commits.  Use this when you want to experiment
+    something and still keep the main code intact.
