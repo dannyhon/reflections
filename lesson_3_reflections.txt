@@ -14,3 +14,15 @@ Describe the differences between forks, clones, and branches. When would you use
     repository and make changes in your local environment.
   Branch is a separate path for commits.  Use this when you want to experiment
     something and still keep the main code intact.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  You can pull latest changes from remote and do a merge with your changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  I would need to send an email with my code attached.  GitHub is easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  Make change to branch will not break code on master that others depend on.  More merges are required and can be complicated.
